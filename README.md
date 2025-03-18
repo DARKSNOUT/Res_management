@@ -1,26 +1,25 @@
-# Restaurant-Management-System
-This is a restaurant management software which I developed for one of the assignment in software enginerring course in University.
+#  Restaurant Management System  
 
-## Features !
- - Intuitive user interface
- - Desktop application
- - File Based Data storage
- - Easy to modify design
- - Multiple modules
-    - Basic Authentication  
-    - Item Management 
-    - Order Management
-    - Labour Management
-    - Billing Management
+A **desktop-based** restaurant management software developed as part of a **Software Engineering** course assignment. It features multiple modules for efficient management of restaurant operations.  
 
-## How to edit this project ?
-Best way to open and edit the project is to use Netbeans IDE. It allows very easy way to modify the design (Drag and Drop)
+## 🚀 Key Features  
+✔️ **User-Friendly Interface** – Simple and intuitive design  
+✔️ **Standalone Desktop Application** – No internet required  
+✔️ **File-Based Data Storage** – No need for external databases  
+✔️ **Easily Customizable** – Modify and extend functionality  
+✔️ **Modular Design** – Includes:  
+   - 🔑 **Authentication System** (Hardcoded for now)  
+   - 🍔 **Menu & Item Management**  
+   - 🛒 **Order Processing**  
+   - 👥 **Staff & Labor Management**  
+   - 💰 **Billing & Invoice System**  
 
-## Authentication
-There is no standard authentication has been added yet. Currently, it is hardcoded.
+## 🛠️ How to Modify the Project?  
+For best results, open and edit the project using **NetBeans IDE**. The **drag-and-drop** GUI builder makes customization effortless.  
 
-```
-Username : shahin
-Password : shahin
-```
+## 🔐 Authentication Details  
+No formal authentication system is implemented yet. The default credentials are:  
 
+```plaintext
+👤 Username: shahin  
+🔑 Password: shahin  
