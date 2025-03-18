@@ -17,9 +17,9 @@ A **desktop-based** restaurant management software developed as part of a **Soft
 ## 🛠 How to Modify the Project?  
 For best results, open and edit the project using **NetBeans IDE**. The **drag-and-drop** GUI builder makes customization effortless.  
 
-## 🔐 Authentication Details  
+##  Authentication Details  
 No formal authentication system is implemented yet. The default credentials are:  
 
 ```plaintext
-👤 Username: shahin  
-🔑 Password: shahin  
+ Username: shahin  
+ Password: shahin  
